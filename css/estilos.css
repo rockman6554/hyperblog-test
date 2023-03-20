@@ -1,0 +1,12 @@
+/* Styles for blogpost test */
+body
+    {
+        text-align: center;
+        font-family: 'Helvetica';
+        background-color: black;
+        color: white;
+    }
+h1
+    {
+        color: fuchsia;
+    }
