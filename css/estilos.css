@@ -1,29 +1,22 @@
 /* Styles for blogpost test -Manuel*/
 body
-{
-    background: #1e1f24;
-    color: #333;
-    text-align: center;
-    font-family: "Helvetica";
-    font-size: 16px;
-    margin: 0;
-    padding: 0;
-}
+    {
+        color: #333;
+        text-align: center;
+        font-family: "Helvetica";
+        font-size: 16px;
+        margin: 0;
+        padding: 0;
+    }
 
 #cabecera
 {
-    background: #37488b;
+    background: #33A;
     box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
     color: white;
     font-weight: bold;
     margin: 0;
-    padding: 0.5em 0 0.5em 2em;
-}
-
-#cabecera #logo
-{
-    width: 20px;
-    vertical-align: middle;
+    padding: 0.5em;
 }
 
 #cabecera #tagline
@@ -34,20 +27,15 @@ body
 }
 
 #container
-{
-    width: 70%;
-    padding: 1em;
-    text-align: left;
-    border: 1px solid #DDD;
-    margin: 0 auto;
-}
+    {
+        width: 70%;
+        padding: 1em;
+        text-align: left;
+        border: 1px solid #DDD;
+        margin: 0 auto;
+    }
 
 #container h1
-{
-    font-size: 20px;
-}
-#post
-{
-    background: white;
-    padding: 1em;
-}
+    {
+        font-size: 20px;
+    }
